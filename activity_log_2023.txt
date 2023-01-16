@@ -7,3 +7,4 @@ Commit at 2023-01-12T18:00:17: Refactor training loop
 Commit at 2023-01-12T18:52:23: Setting up development environment
 Commit at 2023-01-15T16:10:18: Refactor training loop
 Commit at 2023-01-16T17:11:25: Fix minor bug in data processing
+Commit at 2023-01-16T18:29:49: Fix edge case in sensor fusion
