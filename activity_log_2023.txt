@@ -10,3 +10,4 @@ Commit at 2023-01-16T17:11:25: Fix minor bug in data processing
 Commit at 2023-01-16T18:29:49: Fix edge case in sensor fusion
 Commit at 2023-01-17T12:32:22: Update dependencies
 Commit at 2023-01-19T15:50:57: Update dependencies
+Commit at 2023-01-20T15:33:04: Add unit tests for new features
