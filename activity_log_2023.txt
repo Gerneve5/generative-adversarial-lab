@@ -11,3 +11,4 @@ Commit at 2023-01-16T18:29:49: Fix edge case in sensor fusion
 Commit at 2023-01-17T12:32:22: Update dependencies
 Commit at 2023-01-19T15:50:57: Update dependencies
 Commit at 2023-01-20T15:33:04: Add unit tests for new features
+Commit at 2023-01-23T17:49:29: Update README with new benchmarks
