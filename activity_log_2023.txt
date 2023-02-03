@@ -17,3 +17,4 @@ Commit at 2023-01-25T15:41:12: Setting up development environment
 Commit at 2023-01-27T17:59:58: Improve error handling
 Commit at 2023-01-30T15:54:30: Drafting core components
 Commit at 2023-01-31T14:40:29: Clean up code and remove unused imports
+Commit at 2023-02-03T17:18:46: Improve error handling
