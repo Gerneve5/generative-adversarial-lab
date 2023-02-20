@@ -25,3 +25,4 @@ Commit at 2023-02-13T09:23:38: Optimize memory usage
 Commit at 2023-02-14T11:53:11: Initial research on model architecture
 Commit at 2023-02-15T09:32:38: Setting up development environment
 Commit at 2023-02-15T13:16:11: Update documentation and examples
+Commit at 2023-02-20T15:25:14: Add visualization tools
