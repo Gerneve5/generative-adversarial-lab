@@ -62,3 +62,4 @@ Commit at 2023-04-28T12:20:17: Initial research on model architecture
 Commit at 2023-05-03T11:58:58: Initial research on model architecture
 Commit at 2023-05-08T14:03:51: Clean up code and remove unused imports
 Commit at 2023-05-08T14:04:12: Add unit tests for new features
+Commit at 2023-05-10T13:05:57: Optimize memory usage
