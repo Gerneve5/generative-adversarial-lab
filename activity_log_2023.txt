@@ -71,3 +71,4 @@ Commit at 2023-05-17T15:23:43: Improve error handling
 Commit at 2023-05-18T17:23:36: Improve error handling
 Commit at 2023-05-19T18:26:12: Fix edge case in sensor fusion
 Commit at 2023-05-23T15:18:37: Fix minor bug in data processing
+Commit at 2023-05-23T18:57:22: Drafting core components
