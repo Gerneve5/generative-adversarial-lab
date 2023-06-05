@@ -78,3 +78,4 @@ Commit at 2023-05-31T10:42:25: Update dependencies
 Commit at 2023-05-31T12:51:16: Add support for new model architectures
 Commit at 2023-06-01T09:14:08: Refactor training loop
 Commit at 2023-06-02T10:12:08: Update dependencies
+Commit at 2023-06-05T10:27:39: Update documentation and examples
