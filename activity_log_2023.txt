@@ -150,3 +150,4 @@ Commit at 2023-10-12T13:40:37: Refactor training loop
 Commit at 2023-10-16T12:49:09: Initial research on model architecture
 Commit at 2023-10-16T16:54:58: Update dependencies
 Commit at 2023-10-17T13:12:44: Update README with new benchmarks
+Commit at 2023-10-18T15:29:35: Add unit tests for new features
