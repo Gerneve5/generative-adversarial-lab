@@ -166,3 +166,4 @@ Commit at 2023-11-06T11:44:23: Fix edge case in sensor fusion
 Commit at 2023-11-07T17:44:19: Implement new optimization algorithm
 Commit at 2023-11-09T10:24:41: Add visualization tools
 Commit at 2023-11-10T18:14:50: Add visualization tools
+Commit at 2023-11-10T14:31:13: Refactor training loop
