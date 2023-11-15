@@ -168,3 +168,4 @@ Commit at 2023-11-09T10:24:41: Add visualization tools
 Commit at 2023-11-10T18:14:50: Add visualization tools
 Commit at 2023-11-10T14:31:13: Refactor training loop
 Commit at 2023-11-13T18:04:00: Update README with new benchmarks
+Commit at 2023-11-15T10:47:07: Optimize memory usage
