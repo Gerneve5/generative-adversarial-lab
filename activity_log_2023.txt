@@ -181,3 +181,4 @@ Commit at 2023-11-30T12:38:04: Add support for new model architectures
 Commit at 2023-11-30T13:15:56: Update dependencies
 Commit at 2023-12-04T18:02:39: Add visualization tools
 Commit at 2023-12-06T18:45:59: Drafting core components
+Commit at 2023-12-08T09:32:54: Update README with new benchmarks
