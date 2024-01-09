@@ -5,3 +5,4 @@ Commit at 2024-01-04T18:03:26: Add visualization tools
 Commit at 2024-01-05T09:51:46: Refactor training loop
 Commit at 2024-01-08T15:23:07: Refactor core logic for better performance
 Commit at 2024-01-08T11:46:07: Fix minor bug in data processing
+Commit at 2024-01-09T17:29:23: Add unit tests for new features
