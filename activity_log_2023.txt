@@ -224,3 +224,4 @@ Commit at 2024-02-13T15:19:46: Fix minor bug in data processing
 Commit at 2024-02-14T12:12:02: Add unit tests for new features
 Commit at 2024-02-14T17:18:08: Update dependencies
 Commit at 2024-02-15T10:01:16: Update documentation and examples
+Commit at 2024-02-16T15:37:34: Fix edge case in sensor fusion
