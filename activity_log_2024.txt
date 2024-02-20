@@ -39,3 +39,4 @@ Commit at 2024-02-13T15:05:54: Add support for mixed precision training
 Commit at 2024-02-16T13:23:26: Update hyperparameter tuning scripts
 Commit at 2024-02-19T09:20:16: Update README with new benchmarks
 Commit at 2024-02-20T14:41:40: Clean up code and remove unused imports
+Commit at 2024-02-20T11:32:35: Improve error handling
