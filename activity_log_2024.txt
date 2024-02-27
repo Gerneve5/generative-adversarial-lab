@@ -46,3 +46,4 @@ Commit at 2024-02-23T15:48:56: Fix minor bug in data processing
 Commit at 2024-02-26T10:25:37: Clean up code and remove unused imports
 Commit at 2024-02-26T16:03:46: Update hyperparameter tuning scripts
 Commit at 2024-02-27T13:16:52: Add support for new model architectures
+Commit at 2024-02-27T16:55:29: Fix edge case in sensor fusion
