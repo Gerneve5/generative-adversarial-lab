@@ -50,3 +50,4 @@ Commit at 2024-02-27T16:55:29: Fix edge case in sensor fusion
 Commit at 2024-02-29T11:57:16: Add unit tests for new features
 Commit at 2024-03-01T12:39:47: Implement new optimization algorithm
 Commit at 2024-03-01T13:11:30: Implement new optimization algorithm
+Commit at 2024-03-05T16:02:53: Add unit tests for new features
