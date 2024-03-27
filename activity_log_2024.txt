@@ -70,3 +70,4 @@ Commit at 2024-03-22T14:10:47: Add support for mixed precision training
 Commit at 2024-03-22T16:59:16: Refactor training loop
 Commit at 2024-03-25T18:10:44: Add support for new model architectures
 Commit at 2024-03-26T14:46:32: Refactor core logic for better performance
+Commit at 2024-03-27T16:50:21: Add visualization tools
