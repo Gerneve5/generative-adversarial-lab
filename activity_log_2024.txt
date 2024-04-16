@@ -89,3 +89,4 @@ Commit at 2024-04-11T15:04:28: Fix edge case in sensor fusion
 Commit at 2024-04-12T15:22:33: Fix minor bug in data processing
 Commit at 2024-04-12T11:59:28: Optimize memory usage
 Commit at 2024-04-15T18:31:41: Add unit tests for new features
+Commit at 2024-04-16T16:48:04: Update README with new benchmarks
