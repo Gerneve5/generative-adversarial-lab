@@ -98,3 +98,4 @@ Commit at 2024-04-19T10:56:54: Clean up code and remove unused imports
 Commit at 2024-04-22T17:19:43: Add support for new model architectures
 Commit at 2024-04-22T09:40:51: Enhance logging and monitoring
 Commit at 2024-04-23T15:42:08: Update dependencies
+Commit at 2024-04-24T17:16:37: Update hyperparameter tuning scripts
