@@ -100,3 +100,4 @@ Commit at 2024-04-22T09:40:51: Enhance logging and monitoring
 Commit at 2024-04-23T15:42:08: Update dependencies
 Commit at 2024-04-24T17:16:37: Update hyperparameter tuning scripts
 Commit at 2024-04-26T12:18:52: Add support for new model architectures
+Commit at 2024-04-26T11:12:07: Refactor training loop
