@@ -123,3 +123,4 @@ Commit at 2024-05-16T18:01:26: Fix edge case in sensor fusion
 Commit at 2024-05-16T18:53:37: Optimize memory usage
 Commit at 2024-05-21T18:00:30: Refactor training loop
 Commit at 2024-05-23T16:08:13: Improve model convergence
+Commit at 2024-05-24T12:37:47: Update README with new benchmarks
