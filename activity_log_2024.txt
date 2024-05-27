@@ -125,3 +125,4 @@ Commit at 2024-05-21T18:00:30: Refactor training loop
 Commit at 2024-05-23T16:08:13: Improve model convergence
 Commit at 2024-05-24T12:37:47: Update README with new benchmarks
 Commit at 2024-05-24T11:29:45: Optimize memory usage
+Commit at 2024-05-27T10:54:49: Fix minor bug in data processing
