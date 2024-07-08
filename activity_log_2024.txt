@@ -165,3 +165,4 @@ Commit at 2024-07-03T14:06:43: Improve error handling
 Commit at 2024-07-04T09:29:13: Refactor core logic for better performance
 Commit at 2024-07-05T16:01:46: Improve model convergence
 Commit at 2024-07-05T13:26:28: Refactor training loop
+Commit at 2024-07-08T09:42:57: Update documentation and examples
