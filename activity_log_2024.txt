@@ -174,3 +174,4 @@ Commit at 2024-07-11T17:44:46: Improve error handling
 Commit at 2024-07-12T13:04:24: Improve model convergence
 Commit at 2024-07-12T16:36:47: Update documentation and examples
 Commit at 2024-07-13T14:52:44: Fix minor bug in data processing
+Commit at 2024-07-16T18:21:45: Add visualization tools
