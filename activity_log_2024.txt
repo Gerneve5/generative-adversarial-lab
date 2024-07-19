@@ -179,3 +179,4 @@ Commit at 2024-07-17T17:56:25: Update README with new benchmarks
 Commit at 2024-07-17T12:25:24: Update README with new benchmarks
 Commit at 2024-07-18T11:08:24: Implement new optimization algorithm
 Commit at 2024-07-19T11:50:35: Add support for new model architectures
+Commit at 2024-07-19T17:22:36: Optimize memory usage
