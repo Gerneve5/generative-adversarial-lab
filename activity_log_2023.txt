@@ -234,3 +234,4 @@ Commit at 2024-03-21T16:48:01: Initial research on model architecture
 Commit at 2024-04-24T10:00:03: Update dependencies
 Commit at 2024-06-15T16:01:43: Fix minor bug in data processing
 Commit at 2024-10-06T17:41:49: Initial research on model architecture
+Commit at 2024-10-08T10:13:33: Update README with new benchmarks
