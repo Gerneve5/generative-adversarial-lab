@@ -247,3 +247,4 @@ Commit at 2024-10-14T12:50:26: Add unit tests for new features
 Commit at 2024-10-15T12:33:09: Improve error handling
 Commit at 2024-10-16T14:26:09: Update dependencies
 Commit at 2024-10-16T12:35:26: Update README with new benchmarks
+Commit at 2024-10-17T09:55:06: Improve error handling
