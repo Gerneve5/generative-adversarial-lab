@@ -250,3 +250,4 @@ Commit at 2024-10-16T12:35:26: Update README with new benchmarks
 Commit at 2024-10-17T09:55:06: Improve error handling
 Commit at 2024-10-17T16:30:51: Improve error handling
 Commit at 2024-10-18T09:51:47: Update hyperparameter tuning scripts
+Commit at 2024-10-23T11:02:55: Update documentation and examples
