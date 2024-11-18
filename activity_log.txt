@@ -10,3 +10,4 @@ Commit at 2024-11-13T11:22:21: Refactor training loop
 Commit at 2024-11-14T09:59:19: Improve error handling
 Commit at 2024-11-15T13:11:53: Add support for new model architectures
 Commit at 2024-11-15T17:39:24: Fix edge case in sensor fusion
+Commit at 2024-11-18T15:07:52: Update README with new benchmarks
