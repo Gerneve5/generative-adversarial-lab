@@ -13,3 +13,4 @@ Commit at 2024-11-15T17:39:24: Fix edge case in sensor fusion
 Commit at 2024-11-18T15:07:52: Update README with new benchmarks
 Commit at 2024-11-19T16:58:39: Update README with new benchmarks
 Commit at 2024-11-20T11:11:29: Fix minor bug in data processing
+Commit at 2024-11-20T13:48:53: Implement new optimization algorithm
