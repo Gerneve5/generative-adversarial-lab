@@ -36,3 +36,4 @@ Commit at 2024-12-10T15:54:48: Update dependencies
 Commit at 2024-12-10T13:31:48: Fix edge case in sensor fusion
 Commit at 2024-12-11T12:27:09: Add unit tests for new features
 Commit at 2024-12-11T14:21:02: Update dependencies
+Commit at 2024-12-12T11:32:40: Add support for new model architectures
