@@ -44,3 +44,4 @@ Commit at 2024-12-17T16:27:08: Add support for new model architectures
 Commit at 2024-12-17T13:07:29: Refactor core logic for better performance
 Commit at 2024-12-18T13:07:19: Fix minor bug in data processing
 Commit at 2024-12-20T18:20:45: Add support for new model architectures
+Commit at 2024-12-20T10:12:54: Fix minor bug in data processing
