@@ -52,3 +52,4 @@ Commit at 2024-12-24T13:18:56: Update dependencies
 Commit at 2024-12-26T10:32:02: Add visualization tools
 Commit at 2024-12-30T10:04:38: Improve error handling
 Commit at 2024-12-30T09:23:46: Add unit tests for new features
+Commit at 2024-12-30T12:26:02: Clean up code and remove unused imports
