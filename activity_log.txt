@@ -63,3 +63,4 @@ Commit at 2025-01-03T10:57:37: Optimize memory usage
 Commit at 2025-01-06T14:18:12: Update README with new benchmarks
 Commit at 2025-01-07T14:51:31: Optimize memory usage
 Commit at 2025-01-07T12:18:59: Refactor training loop
+Commit at 2025-01-07T14:47:45: Optimize memory usage
