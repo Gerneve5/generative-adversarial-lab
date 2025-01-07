@@ -61,3 +61,4 @@ Commit at 2025-01-02T14:14:39: Update dependencies
 Commit at 2025-01-03T14:57:35: Update documentation and examples
 Commit at 2025-01-03T10:57:37: Optimize memory usage
 Commit at 2025-01-06T14:18:12: Update README with new benchmarks
+Commit at 2025-01-07T14:51:31: Optimize memory usage
