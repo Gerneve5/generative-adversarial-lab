@@ -113,3 +113,4 @@ Commit at 2025-02-14T11:35:28: Refactor core logic for better performance
 Commit at 2025-02-17T14:34:08: Enhance logging and monitoring
 Commit at 2025-02-17T15:22:19: Add unit tests for new features
 Commit at 2025-02-19T17:37:23: Improve error handling
+Commit at 2025-02-20T09:31:45: Update README with new benchmarks
