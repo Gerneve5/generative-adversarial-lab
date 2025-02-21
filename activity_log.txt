@@ -115,3 +115,4 @@ Commit at 2025-02-17T15:22:19: Add unit tests for new features
 Commit at 2025-02-19T17:37:23: Improve error handling
 Commit at 2025-02-20T09:31:45: Update README with new benchmarks
 Commit at 2025-02-21T16:48:28: Update dependencies
+Commit at 2025-02-21T12:10:32: Add support for new model architectures
