@@ -125,3 +125,4 @@ Commit at 2025-02-28T17:47:36: Refactor core logic for better performance
 Commit at 2025-03-03T11:30:49: Enhance logging and monitoring
 Commit at 2025-03-03T17:53:52: Update README with new benchmarks
 Commit at 2025-03-04T12:53:46: Refactor core logic for better performance
+Commit at 2025-03-04T12:27:34: Refactor training loop
