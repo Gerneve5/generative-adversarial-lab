@@ -133,3 +133,4 @@ Commit at 2025-03-11T09:51:55: Update documentation and examples
 Commit at 2025-03-12T11:53:56: Update documentation and examples
 Commit at 2025-03-13T09:36:19: Add visualization tools
 Commit at 2025-03-13T09:26:17: Fix minor bug in data processing
+Commit at 2025-03-14T13:48:31: Update README with new benchmarks
