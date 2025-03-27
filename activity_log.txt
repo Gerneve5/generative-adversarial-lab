@@ -145,3 +145,4 @@ Commit at 2025-03-24T11:20:52: Clean up code and remove unused imports
 Commit at 2025-03-26T10:12:20: Refactor training loop
 Commit at 2025-03-26T13:12:33: Add support for new model architectures
 Commit at 2025-03-26T18:27:36: Add support for new model architectures
+Commit at 2025-03-27T09:41:37: Add support for new model architectures
