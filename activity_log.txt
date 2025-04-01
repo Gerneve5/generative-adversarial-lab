@@ -149,3 +149,4 @@ Commit at 2025-03-27T09:41:37: Add support for new model architectures
 Commit at 2025-03-28T12:55:11: Implement new optimization algorithm
 Commit at 2025-03-28T14:28:19: Add support for new model architectures
 Commit at 2025-04-01T16:14:32: Refactor core logic for better performance
+Commit at 2025-04-01T12:31:07: Update README with new benchmarks
