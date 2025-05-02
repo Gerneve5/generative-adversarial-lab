@@ -180,3 +180,4 @@ Commit at 2025-04-30T12:13:51: Update documentation and examples
 Commit at 2025-04-30T17:44:26: Fix minor bug in data processing
 Commit at 2025-05-01T10:29:11: Add unit tests for new features
 Commit at 2025-05-02T13:05:05: Update README with new benchmarks
+Commit at 2025-05-02T14:01:52: Fix edge case in sensor fusion
