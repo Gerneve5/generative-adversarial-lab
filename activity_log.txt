@@ -200,3 +200,4 @@ Commit at 2025-05-21T14:50:54: Update documentation and examples
 Commit at 2025-05-22T09:48:31: Add visualization tools
 Commit at 2025-05-22T09:07:02: Fix edge case in sensor fusion
 Commit at 2025-05-23T17:32:11: Fix minor bug in data processing
+Commit at 2025-05-26T18:25:11: Refactor training loop
