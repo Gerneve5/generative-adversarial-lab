@@ -211,3 +211,4 @@ Commit at 2025-05-29T09:58:46: Enhance logging and monitoring
 Commit at 2025-05-30T11:53:45: Optimize memory usage
 Commit at 2025-05-30T12:53:05: Add support for new model architectures
 Commit at 2025-05-31T11:42:57: Improve error handling
+Commit at 2025-06-02T09:17:14: Add visualization tools
