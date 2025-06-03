@@ -213,3 +213,4 @@ Commit at 2025-05-30T12:53:05: Add support for new model architectures
 Commit at 2025-05-31T11:42:57: Improve error handling
 Commit at 2025-06-02T09:17:14: Add visualization tools
 Commit at 2025-06-02T18:14:25: Update dependencies
+Commit at 2025-06-03T12:28:28: Add visualization tools
