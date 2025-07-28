@@ -272,3 +272,4 @@ Commit at 2025-07-25T09:29:53: Optimize memory usage
 Commit at 2025-07-25T18:50:55: Refactor training loop
 Commit at 2025-07-26T16:11:54: Update README with new benchmarks
 Commit at 2025-07-28T11:51:10: Clean up code and remove unused imports
+Commit at 2025-07-28T16:05:56: Improve error handling
