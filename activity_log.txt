@@ -307,3 +307,4 @@ Commit at 2025-08-20T16:48:27: Update documentation and examples
 Commit at 2025-08-22T09:48:36: Add support for new model architectures
 Commit at 2025-08-22T11:02:07: Enhance logging and monitoring
 Commit at 2025-08-25T09:39:12: Add visualization tools
+Commit at 2025-08-25T12:36:08: Update README with new benchmarks
