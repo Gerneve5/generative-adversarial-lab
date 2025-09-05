@@ -318,3 +318,4 @@ Commit at 2025-09-03T11:36:25: Clean up code and remove unused imports
 Commit at 2025-09-03T10:52:14: Improve error handling
 Commit at 2025-09-04T12:12:33: Fix minor bug in data processing
 Commit at 2025-09-05T09:07:40: Update documentation and examples
+Commit at 2025-09-05T10:14:55: Refactor training loop
